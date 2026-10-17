@@ -52,27 +52,42 @@ Supabase | PostgreSQL | Docker | VPS
 
 ---
 
-## 💼 Featured Projects
 
-### 1. AI Voice Agent & CRM Automation
-AI-powered inbound and outbound calling system with lead qualification, appointment scheduling, CRM updates, and automated follow-ups.
+## 🚀 Featured Projects
 
-Technologies: Vapi, n8n, REST APIs, CRM
+### 1. Python & FastAPI Automation
+REST API development, automated lead processing, data validation, and CRM-ready integrations.
 
-### 2. Python & FastAPI Automation
-Custom Python automation solutions for API integrations, data processing, web scraping, and backend workflow development.
+[View Source Code](https://github.com/hamadliaqat682/python-fastapi-automation)
 
-Technologies: Python, FastAPI, REST APIs
+### 2. AI Voice Agent | Vapi + n8n
+AI calling webhook automation for lead qualification, transcript processing, and CRM-ready outputs.
 
-### 3. GoHighLevel CRM & Sales Automation
-Automated lead capture, CRM pipelines, customer follow-ups, appointment scheduling, and sales workflow management.
+[View Source Code](https://github.com/hamadliaqat682/ai-voice-agent-n8n)
 
-Technologies: GoHighLevel, CRM, Webhooks
+### 3. GoHighLevel CRM Automation
+Demonstration of automated lead processing, sales pipeline updates, appointment management, and follow-up logic.
+
+[View Source Code](https://github.com/hamadliaqat682/gohighlevel-crm-automation)
 
 ### 4. AI Chatbot & RAG Knowledge Base
-Intelligent knowledge-based AI assistant with document retrieval, vector search, and contextual responses.
+RAG chatbot using Python, FastAPI, OpenAI, Supabase, PostgreSQL, and pgvector.
 
-Technologies: n8n, OpenAI, Supabase, PostgreSQL
+[View Source Code](https://github.com/hamadliaqat682/ai-rag-chatbot-supabase)
+
+---
+
+### 💡 Engineering Focus
+
+→ Production-minded AI automation architecture
+
+→ Custom Python APIs and backend integrations
+
+→ AI voice agents and intelligent workflows
+
+→ CRM systems and sales process automation
+
+→ Retrieval-Augmented Generation and vector databases
 
 ---
 
